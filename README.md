@@ -38,13 +38,8 @@
 
 <br />
 <br />
-
-<a href="https://github.com/Lahaduzzaman">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lahaduzzaman&show_icons=true&theme=light&line_height=27" alt="Lahaduzzaman Lahad's github stats"/>
-</a>
-
 <br />
 
-<a href="https://github.com/Lahaduzzaman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahaduzzaman&theme=light&hide_langs_below=1" />
-</a>
+<img width="550px" alt="Lahaduzzaman Lahad Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Lahaduzzaman&show_icons=true&theme=radical"/>
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Lahaduzzaman&card_width=550&)](https://github.com/Lahaduzzaman)
