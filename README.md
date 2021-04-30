@@ -1,7 +1,7 @@
-### Hi there, I'm Lahaduzzaman Lahad 👨‍💻
+### Hi there, I'm Lahaduzzaman Lahad 👋
 
-### Welcome to my GitHub's World👋
-
+### Welcome to my GitHub's World
+<br />
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 <br />
 
