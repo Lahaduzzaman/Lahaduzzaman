@@ -21,7 +21,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26px"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/gtrue&theme=light&lineithub/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="26px"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26px"/>
@@ -38,9 +38,9 @@
 <br />
 <br />
 
-<img width="550px" alt="Lahaduzzaman Lahad Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Lahaduzzaman&show_icons=true&theme=light&line"/>
+<img width="550px" alt="Lahaduzzaman Lahad Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Lahaduzzaman&show_icons=true&theme=radical"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Lahaduzzaman&card_width=550&true&theme=radical)](https://github.com/Lahaduzzaman)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Lahaduzzaman&card_width=550&true&theme=light&line)](https://github.com/Lahaduzzaman)
 
 
 <div align="center">
