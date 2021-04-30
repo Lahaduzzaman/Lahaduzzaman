@@ -1,9 +1,8 @@
 # Hi there, I'm Lahaduzzaman Lahad 👋
 
-### Welcome to my GitHub's World
+### Welcome to my GitHub's World 🚀
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
-<br />
 
 - 🌱 I’m currently learning React/Node.js/MongoDB.
 - 💬 Ask me about anything about programming and coding.
