@@ -38,7 +38,7 @@
 <br />
 <br />
 
-<img width="550px" alt="Lahaduzzaman Lahad Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Lahaduzzaman&show_icons=true&theme=radical"/>
+<img width="550px" alt="Lahaduzzaman Lahad's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Lahaduzzaman&show_icons=true&theme=radical"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Lahaduzzaman&card_width=550&)](https://github.com/Lahaduzzaman)
 
