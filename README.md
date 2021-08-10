@@ -9,6 +9,7 @@
 - ⌚ 2021 Goals: Learn MERN Stack.
 - ⚡ Fun Fact: I love to watch Movie and play Cricket !  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lahaduzzaman&label=Profile%20views&color=E4405F&style=flat" alt="taheirahmedashraf" /> </p>
 
 ### Connect with Me:
 
